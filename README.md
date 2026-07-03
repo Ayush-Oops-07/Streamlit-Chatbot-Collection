@@ -1,5 +1,5 @@
 # 🤖 Chatbot Collection using Streamlit
-ai
+
 This repository is a collection of multiple chatbot implementations built using **Python** and **Streamlit**. The project explores various chatbot architectures — from simple rule-based bots to sentiment-aware assistants and machine learning-powered conversational agents.
 
 Whether you're a beginner or exploring AI integration in web apps, this repository provides clean, functional chatbot examples that are easy to run and modify.
@@ -55,3 +55,5 @@ Whether you're a beginner or exploring AI integration in web apps, this reposito
 ```bash
 git clone https://github.com/yourusername/chatbot-collection.git
 cd chatbot-collection/Chatbot
+
+Thankyou..!!
